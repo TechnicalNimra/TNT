@@ -1,1 +1,1 @@
-import tnt
+import tnt_enc
